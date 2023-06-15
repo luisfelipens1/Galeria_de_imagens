@@ -4,7 +4,7 @@ Pequeno projeto da construção de uma galeria com filtro de imagens e visualiza
 ## Resumo
 Criei este projeto para treinar e praticar o uso do Javascript e sua interação com o DOM, através desse projeto é possível filtrar imagens por categorias e ao clicar sobre cada uma, ter uma visualização prévia delas.
 ##Sobre o projeto
-O projeto é bem simples, contendo apenas 3 arquivos um <link>index.html<link> com a marcação HTML o <link>style.css<link> com a estilização da página e suas versões responsiva para celulares e tablets e o <link>main.js</link> que é o cérebro do projeto, é através desse arquivo que as ações são executadas na página.
+O projeto é bem simples, contendo apenas 3 arquivos um [index.html](https://github.com/luisfelipens1/Galeria_de_imagens/blob/main/index.html) com a marcação HTML o [style.css](https://github.com/luisfelipens1/Galeria_de_imagens/blob/main/style.css) com a estilização da página e suas versões responsiva para celulares e tablets e o [main.js](https://github.com/luisfelipens1/Galeria_de_imagens/blob/main/main.js) que é o cérebro do projeto, é através desse arquivo que as ações são executadas na página.
 
 ## Arquivos do projeto
 [index.html](https://github.com/luisfelipens1/Galeria_de_imagens/blob/main/index.html) | Página principal <br>
