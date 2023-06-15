@@ -20,4 +20,4 @@ O projeto tem como objetivo principal praticar e conhecer a linguagem Javascript
 **Bancos de imagens**: Unsplash e Pexels
 
 ## Conclusão
-O projeto teve um nível de dificuldade um pouco maior, foi necessário pesquisa e vídeos tutoriais para resolver algumas funções e etapas, tendo sido meu maior aprendizado, como capturar os elementos através do DOM e manipula-los dentro do Javascript.
+O projeto teve um nível de dificuldade um pouco maior, foi necessário pesquisa e vídeos tutoriais para resolver algumas funções e etapas, tendo sido meu maior aprendizado capturar os elementos através do DOM e manipula-los dentro do Javascript.
